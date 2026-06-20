@@ -1,0 +1,8 @@
+# Core pipeline + collection-builder v4 runtime
+openai>=1.40           # OpenAI provider (assort) + collection-builder v4 (gate + embeddings)
+numpy>=1.24            # collection-builder v4 embedding match
+openpyxl>=3.1          # xlsx output (reviewer workbook + decisions.xlsx)
+python-dotenv>=1.0     # optional: auto-load a local .env
+
+# Optional alternative provider for the ASSORT step (LLM_PROVIDER=anthropic)
+# anthropic>=0.40

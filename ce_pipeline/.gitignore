@@ -1,0 +1,21 @@
+# secrets / config
+.env
+*.key
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.python-version
+
+# pipeline outputs
+out/
+*.tmp
+
+# os
+.DS_Store
+
+# keep sample data, but never commit real/private supplier dumps or keys
+samples/**/*.private.*
+inputs/**/*.private.*
