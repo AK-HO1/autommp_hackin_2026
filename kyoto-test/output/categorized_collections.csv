@@ -1,0 +1,14 @@
+collection_id,collection_name,n_experiences,is_new,min_confidence
+1010 - Kyoto,Guided Tours - Kyoto,60,False,0.88
+kyoto and nara tours,Kyoto And Nara Tours,2,True,0.7
+kyoto and uji tours,Kyoto And Uji Tours,2,True,0.7
+kyoto region tours,Kyoto Region Tours,1,True,0.7
+kyoto to nara tours,Kyoto to Nara Tours,1,True,0.7
+kyoto tours,Kyoto Tours,1,True,0.7
+tokyo to kyoto tours,Tokyo to Kyoto Tours,1,True,0.7
+amanohashidate and miyama tours,Amanohashidate And Miyama Tours,1,True,0.7
+1026 - Kyoto,Food Tours - Kyoto,1,True,0.85
+osaka/kyoto to kyoto tours,Osaka/Kyoto to Kyoto Tours,1,True,0.7
+"kyoto, nara and uji tours","Kyoto, Nara And Uji Tours",1,True,0.7
+osaka port to kyoto tours,Osaka Port to Kyoto Tours,1,True,0.7
+arashiyama bamboo grove,Arashiyama Bamboo Grove,1,True,0.6
